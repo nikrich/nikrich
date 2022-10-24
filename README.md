@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikrich
+- 👋 Hi, I’m @nikrich (Jannik)
 - 👀 I’m interested in software architecture, game development, 3d modelling/animation and visual story telling
 - 🌱 I’m currently learning Unreal Engine 5 and brushing up on my C++
 - 💞️ I currently specialize in asp.net core and have extensive knowledge on other stacks including NodeJS, Cloudflare edge computing and more
