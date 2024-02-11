@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nikrich (Jannik)
-- 👀 I’m a Software Architect interested game development, 3d modelling/animation and visual story telling
-- 🌱 I’m currently learning Unreal Engine 5 and brushing up on my C++
+- 👀 I’m a Software Architect with years of experience in building districuted systems in Azure and AWS
+- 🖥️ My main languages include C#, JavaScript, TypeScript, Java and C++
+- 🌱 I have a huge interest in game development. Started out with XNA, over to Unity and now I’m learning Unreal Engine 5
 - 💞️ I currently specialize in asp.net core and have extensive knowledge on other stacks including NodeJS, Cloudflare edge computing and more
 - 📫 If you want to reach out, please email me at jannik811@gmail.com
 
