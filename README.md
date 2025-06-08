@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nikrich (Jannik)
 - 👀 I’m a Software Architect with years of experience in building distributed systems in Azure and AWS
 - 🖥️ My main languages include C#, JavaScript, TypeScript, Java and C++
-- 🌱 I have a huge interest in game development. Started out with XNA, over to Unity and now I’m learning Unreal Engine 5
-- 💞️ I currently specialize in asp.net core and have extensive knowledge on other stacks including NodeJS, Spring Boot and Cloudflare edge computing and more
+- 🌱 I have a huge interest in game development. Started out with XNA, over to Unity and Unreal Engine 3. Now I’m building games Unreal Engine 5
+- 💞️ I currently specialize in Java and have extensive knowledge on other stacks including NodeJS, Spring Boot and Cloudflare edge computing and more
 - 📫 If you want to reach out, please email me at jannik811@gmail.com
 
 Until then I'll be drinking wine with my cats and building games. Cheers!
