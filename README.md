@@ -7,14 +7,6 @@
 
 Until then I'll be drinking wine with my cats and building games. Cheers!
 
-## Hi there 👋 I'm Bhekisile Jozi 
-✨a Software Developer✨
-
-- I'm currently working on my side project!
-- Open for new opportunities or collaborate with me on a new project!
-- 📫 How to reach me: bhekisilejozi@gmail.com
-- 😄 Pronouns: she/her
-
  ## Languages and Tools:
 
 <!-- Core Languages -->
