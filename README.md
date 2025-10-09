@@ -10,7 +10,9 @@ Until then I'll be drinking wine with my cats and building games. Cheers!
  ## Languages and Tools:
 
 <!-- Core Languages -->
+### Languages
 <p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -19,6 +21,7 @@ Until then I'll be drinking wine with my cats and building games. Cheers!
 </p>
 
 <!-- Backend & Runtime -->
+### Backend & Runtimes
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -26,6 +29,7 @@ Until then I'll be drinking wine with my cats and building games. Cheers!
 </p>
 
 <!-- Data, Messaging & Search -->
+### Data, Messaging & Search
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -40,6 +44,7 @@ Until then I'll be drinking wine with my cats and building games. Cheers!
 </p>
 
 <!-- Cloud & DevOps -->
+### Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -50,6 +55,7 @@ Until then I'll be drinking wine with my cats and building games. Cheers!
 </p>
 
 <!-- Frontend -->
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -65,17 +71,20 @@ Until then I'll be drinking wine with my cats and building games. Cheers!
 </p>
 
 <!-- Mobile -->
+### Mobile
 <p>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 <!-- Testing -->
+### Testing
 <p>
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Testing%20Library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
 </p>
 
 <!-- Architecture & Practices -->
+### Architecture & Practices
 <p>
   <img src="https://img.shields.io/badge/Domain--Driven%20Design-3B82F6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Event--Driven%20Architecture-0EA5E9?style=for-the-badge" />
@@ -85,6 +94,7 @@ Until then I'll be drinking wine with my cats and building games. Cheers!
 </p>
 
 <!-- Game Dev -->
+### Game Dev
 <p>
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
