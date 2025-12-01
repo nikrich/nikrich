@@ -101,8 +101,6 @@ Until then I'll be drinking wine with my cats and building games. Cheers!
 </p>
   
 
-![Jannik's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikrich&show_icons=true&theme=radical)
-
 <!---
 nikrich/nikrich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
