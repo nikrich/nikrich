@@ -7,6 +7,8 @@
 
 Until then I'll be drinking wine with my cats and building games. Cheers!
 
+[![committers.top badge](https://user-badge.committers.top/south_africa_public/nikrich.svg)](https://user-badge.committers.top/south_africa_public/nikrich)
+
  ## Languages and Tools:
 
 <!-- Core Languages -->
