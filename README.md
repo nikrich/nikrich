@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="assets/header.svg" alt="Jannik Richter - Software Architect, Game Developer, Distributed Systems" />
+<img width="100%" src="assets/banner.svg" alt="Jannik Richter - Software Architect, Game Developer, Distributed Systems" />
 
 <a href="https://github.com/nikrich">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=26D0CE&center=true&vCenter=true&width=820&lines=Architecting+distributed+systems+at+scale;Building+games+in+Unreal+Engine+5;Orchestrating+swarms+of+AI+agents;Shipping+on+the+Cloudflare+edge" alt="Typing SVG" />
