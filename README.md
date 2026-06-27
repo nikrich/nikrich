@@ -1,109 +1,195 @@
-- 👋 Hi, I’m @nikrich (Jannik)
-- 👀 I’m a Software Architect with years of experience in building distributed systems in Azure and AWS
-- 🖥️ My main languages include C#, JavaScript, TypeScript, Java and C++
-- 🌱 I have a huge interest in game development. Started out with XNA, over to Unity and Unreal Engine 3. Now I’m building games Unreal Engine 5
-- 💞️ I currently specialize in Java and have extensive knowledge on other stacks including NodeJS, Spring Boot and Cloudflare edge computing and more
-- 📫 If you want to reach out, please email me at jannik811@gmail.com
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        HEADER / BANNER                            ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
 
-Until then I'll be drinking wine with my cats and building games. Cheers!
+<div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/south_africa_public/nikrich.svg)](https://user-badge.committers.top/south_africa_public/nikrich)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Jannik%20Richter&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Architect%20by%20day%20%E2%80%A2%20Game%20%26%20AI%20hacker%20by%20night&descAlignY=60&descSize=18" alt="header" />
 
- ## Languages and Tools:
+<a href="https://github.com/nikrich">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=26D0CE&center=true&vCenter=true&width=820&lines=Architecting+distributed+systems+at+scale;Building+games+in+Unreal+Engine+5;Orchestrating+swarms+of+AI+agents;Shipping+on+the+Cloudflare+edge;Drinking+wine+with+my+cats+%F0%9F%8D%B7" alt="Typing SVG" />
+</a>
 
-<!-- Core Languages -->
-### Languages
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <a href="https://www.linkedin.com/in/nikrich/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jannik811@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Cape%20Town,%20ZA-DA291C?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-<!-- Backend & Runtime -->
-### Backend & Runtimes
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=nikrich&style=for-the-badge&color=26d0ce&label=PROFILE+VIEWS" />
+  <a href="https://github.com/nikrich?tab=followers"><img src="https://img.shields.io/github/followers/nikrich?style=for-the-badge&color=1a2980&labelColor=0d1117&logo=github" /></a>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github&label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dnikrich%26format%3Djson" />
 </p>
 
-<!-- Data, Messaging & Search -->
-### Data, Messaging & Search
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Cosmos%20DB-2E77BC?style=for-the-badge&logo=azurecosmosdb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20Kinesis-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Camel-FE5000?style=for-the-badge&logo=apachecamel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
+</div>
 
-<!-- Cloud & DevOps -->
-### Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Edge%20Computing-0F172A?style=for-the-badge" />
-</p>
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          ABOUT                                    ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
 
-<!-- Frontend -->
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=1C78C0" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-</p>
+## 🧭 whoami
 
-<!-- Mobile -->
-### Mobile
-<p>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+```ts
+const jannik: Engineer = {
+  role:        "Software Architect @ Sanlam Fintech",
+  location:    "Cape Town, South Africa 🇿🇦",
+  daytime:     "Distributed systems on Azure & AWS — DDD, event-driven, edge",
+  nighttime:   "Unreal Engine 5 games + multi-agent AI orchestration",
+  currently:   "Teaching AI agents to build games inside Unreal Engine",
+  loves:       ["good architecture", "music", "food", "wine", "cats"],
+  philosophy:  "Ship small, ship sharp, automate the boring parts.",
+};
+```
 
-<!-- Testing -->
-### Testing
-<p>
-  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testing%20Library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
-</p>
+I'm a full-time **software architect** building distributed, event-driven systems — and a part-time **game developer** who's been at it since the XNA days, through Unity and Unreal Engine 3, and now living in **Unreal Engine 5**. Lately I'm obsessed with the intersection of the two: **autonomous AI agents that write code, orchestrate like Agile teams, and build games on their own.**
 
-<!-- Architecture & Practices -->
-### Architecture & Practices
-<p>
-  <img src="https://img.shields.io/badge/Domain--Driven%20Design-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Event--Driven%20Architecture-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-64748B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-111827?style=for-the-badge" />
-</p>
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       FEATURED WORK                              ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
 
-<!-- Game Dev -->
-### Game Dev
-<p>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
-  
+## 🚀 Things I'm Proud Of
 
-<!---
-nikrich/nikrich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🐝 [hungry-ghost-hive](https://github.com/nikrich/hungry-ghost-hive-v2)
+A multi-agent orchestrator modelled after **real Agile teams** — agents plan, build, and review autonomously. Now rewritten ground-up as a **Go binary** with a Claude Code subprocess runtime and persistent memory.
+<br/><br/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Agent_AI-8b5cf6?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 [AgentConduit](https://github.com/nikrich)
+An **MCP plugin for Unreal Engine 5** that lets AI agents drive the editor — spawn actors, wire Blueprints, build levels and UMG, and stand up a whole playable game loop from a single prompt.
+<br/><br/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-000000?style=flat-square" />
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🗃️ [lockstep](https://github.com/nikrich/lockstep)
+Git-based source control **for game studios** — bring your own storage. Cheap blobs, zero egress, and **Perforce-grade file locking** for Unreal & Unity.
+<br/><br/>
+<img src="https://img.shields.io/badge/Game_Tooling-DA291C?style=flat-square" />
+<img src="https://img.shields.io/badge/Storage-1572B6?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🃏 [planning-poker](https://github.com/nikrich/planning-poker)
+Real-time multiplayer planning poker built entirely on the **Cloudflare edge** — Workers + Durable Objects + WebSockets, no origin server in sight.
+<br/><br/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Durable_Objects-F38020?style=flat-square" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
+
+</td>
+  </tr>
+</table>
+
+> 🎨 Also: **[unreal-assets](https://github.com/nikrich/unreal-assets)** — 148★ of free Unreal Engine assets for the community · **[jekyll templates](https://github.com/nikrich?tab=repositories)** — beautiful open-source portfolio & blog themes (97★ combined)
+
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        TECH STACK                               ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Backend · Data · Messaging**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+**Cloud · Edge · DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+**Frontend · Game · AI**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-8b5cf6?style=for-the-badge)
+
+</div>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         STATS                                   ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+
+## 📊 By the Numbers
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikrich&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=26d0ce&icon_color=26d0ce" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikrich&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=26d0ce&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikrich&theme=tokyonight&hide_border=true&background=0d1117&ring=26d0ce&fire=ffd700&currStreakLabel=26d0ce" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=nikrich&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
+</div>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    CONTRIBUTION SNAKE                            ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikrich/nikrich/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikrich/nikrich/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nikrich/nikrich/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's build something
+
+I'm always up for a chat about distributed systems, game dev, or letting AI agents run wild.
+<br/>Reach me at **jannik811@gmail.com** or on **[LinkedIn](https://www.linkedin.com/in/nikrich/)**.
+
+*Until then, I'll be drinking wine with my cats and building games. Cheers!* 🍷🐱🎮
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" alt="footer" />
+
+</div>
