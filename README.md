@@ -166,8 +166,6 @@ Real-time multiplayer planning poker built entirely on the **Cloudflare edge**: 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikrich&theme=tokyonight&hide_border=true&background=0d1117&ring=26d0ce&fire=ffd700&currStreakLabel=26d0ce" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikrich&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
 </div>
 
 <!-- ====================================================================== -->
